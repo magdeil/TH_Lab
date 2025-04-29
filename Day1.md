@@ -9,7 +9,7 @@
 ```cisco
 show power inline 
 ```
-
+<br>
 
 
 <b>*SAMPLE OUTPUT*</b>
