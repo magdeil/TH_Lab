@@ -29,3 +29,13 @@
 
 ![{AF898551-8A33-4C70-9270-8A4586DD2603}](https://github.com/user-attachments/assets/ef9f8200-22c4-4a3c-9299-1ab769706fb3)
 
+| #  | Component                     | Description |
+|----|-------------------------------|-------------|
+| 1  | DC adapter port (DC48V)       | Connection for DC power adapter |
+| 2  | AC-to-DC power supply (optional) | Optional power supply unit |
+| 3  | AC power wall plug (optional)  | Optional wall power connection |
+| 4  | Network port (10/100/1000 SW)  | Ethernet connection with IEEE 802.3af and 802.3at PoE support |
+| 5  | Access port (10/100/1000 PC)   | Port for connecting your computer to the phone's network |
+| 6  | Handset port                   | Connection for telephone handset |
+| 7  | Analog headset port (optional) | Connection for optional analog headset |
+
