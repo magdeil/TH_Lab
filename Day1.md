@@ -23,6 +23,7 @@
 ![{CDE7A6C0-F5EA-4B09-B2CF-7253E0984506}](https://github.com/user-attachments/assets/6cc4ac70-1d62-4994-b48a-41e30d749289)
 ![{FD9E20A0-7D14-4EA7-A8F2-EF0B52532E2F}](https://github.com/user-attachments/assets/b773fdb2-bfd8-4d22-9b37-75544a9822d7)
 ![{EE65AD31-5077-4141-BA6C-A6C580ECF27B}](https://github.com/user-attachments/assets/12f814f6-3e7b-41ca-91b9-42043296991a)
+![{4C430601-8BFC-4293-A68A-EB7943DFBF34}](https://github.com/user-attachments/assets/565e1334-a162-4577-ad50-b0e7c76987b9)
 
 ## 🛠️ Task 1: Physical Ports Check
 
