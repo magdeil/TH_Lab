@@ -6,8 +6,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Activity Type](https://img.shields.io/badge/Type-Laboratory-blue)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-lightgrey)
-![Tools](https://img.shields.io/badge/Tools-Cisco%20Devices%2C%20PuTTY-important)
+![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-lightgrey)
+![Tools](https://img.shields.io/badge/Tools-Cisco%20Devices%2C%20PuTTY%2C%20SecureCRT-important)
 ![Institution](https://img.shields.io/badge/Institution-Rivan%20Cyber%20Training%20Institute-yellow)
 
 ---
