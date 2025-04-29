@@ -10,15 +10,14 @@
 show power inline 
 ```
 
+
+
 <b>*SAMPLE OUTPUT*</b>
 ### Power Supply Status
-
 | PowerSupply | SlotNum. | Maximum | Allocated | Status   |
 |-------------|----------|---------|-----------|----------|
 | INT-PS      | 0        | 88.000  | 28.800    | PS GOOD  |
-
 ### Interface Power Allocation
-
 | Interface | Config | Device   | Powered | PowerAllocated |
 |-----------|--------|----------|---------|----------------|
 | Fa0/1/0   | auto   | Unknown  | Off     | 0.000 Watts    |
