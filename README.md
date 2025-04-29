@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://rivanit.com/assets/logo-DaYZ0U1G.png" alt="Logo" title="TH_Lab Logo"/> <h1> Rivan Cyber </h1>
+</div>
+
 # Take-Home Laboratory Activity: Introduction to Cisco Networking Devices
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
