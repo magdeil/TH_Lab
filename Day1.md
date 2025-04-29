@@ -111,3 +111,19 @@ show power inline
 | Fa0/1/5   | auto   | IEEE-4   | On      | 15.400 Watts   |
 | Fa0/1/6   | auto   | Unknown  | Off     | 0.000 Watts    |
 | Fa0/1/7   | auto   | Unknown  | Off     | 0.000 Watts    |
+
+
+```cisco
+config t
+vlan 1
+name default
+vlan 10
+name RIVANWIFI
+vlan 50
+name RIVANVIDEO
+vlan 100
+name RIVANVOIP
+exit
+exit
+show vlan-switch
+```
