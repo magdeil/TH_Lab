@@ -26,7 +26,7 @@ The focus is to build familiarity with the physical aspects and connection stand
 - IP Surveillance Camera
 - UTP (Unshielded Twisted Pair) Ethernet Cables
 - Serial Console Cable
-- Computer with terminal emulation software (e.g., PuTTY, Tera Term)
+- Computer with terminal emulation software (e.g., PuTTY, SecureCRT)
 
 ## 3. Learning Objectives
 
