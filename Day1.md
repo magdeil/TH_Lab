@@ -18,6 +18,61 @@
 | 0/1/5      | Access Point| Wireless AP       |
 | 0/1/7      | PC          | Workstation       |
 
+# 🔧 Connecting to a Cisco Device Using SecureCRT (Serial Connection)
+
+![SecureCRT Icon](https://img.shields.io/badge/SecureCRT-Serial%20Connection-blue)
+
+Follow these steps to establish a console session via RS232 using SecureCRT.
+
+---
+
+## 🔹 Step 1: Launch SecureCRT
+
+- Double-click the **SecureCRT icon** on your desktop to open the application.
+
+---
+
+## 🔹 Step 2: Open Quick Connect
+
+- Click on the **“Quick Connect”** button (🔌 icon) at the top left of the SecureCRT window.
+
+---
+
+## 🔹 Step 3: Select Protocol
+
+- In the **Quick Connect** window:
+  - Set **Protocol** to `Serial`.
+
+---
+
+## 🔹 Step 4: Select Serial Port
+
+- Under **Port**, choose the correct COM port connected to your device.
+  - Common example: `COM3`, `COM4`, etc.
+  - Use *Device Manager* if unsure which COM port is used.
+
+---
+
+## 🔹 Step 5: Configure Serial Settings
+
+Set the following serial parameters:
+
+- **Baud rate**: `9600`
+- **Data bits**: `8`
+- **Parity**: `None`
+- **Stop bits**: `1`
+- **Flow control**: `None`
+
+These are standard settings for Cisco console access.
+
+---
+
+## 🔹 Step 6: Start Session
+
+- Click **Connect** to start your serial console session.
+- If the device is powered and connected properly, you'll see the boot sequence or command prompt.
+
+---
 
 
 ![{CDE7A6C0-F5EA-4B09-B2CF-7253E0984506}](https://github.com/user-attachments/assets/6cc4ac70-1d62-4994-b48a-41e30d749289)
