@@ -10,7 +10,7 @@
 show power inline 
 ```
 <br>
-<b> _SAMPLE OUTPUT:_ </b>
+<b> * SAMPLE OUTPUT: * </b>
 <br>
 
 ### Power Supply Status
