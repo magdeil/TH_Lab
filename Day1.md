@@ -2,7 +2,7 @@
   <img src="https://rivanit.com/assets/logo-DaYZ0U1G.png" alt="Logo" title="TH_Lab Logo"/> <h1> Rivan Cyber Training Institute </h1>
 </div>
 
-# 📘 DAY 1 — TH_Lab
+# 📘 DAY 1 — Take Home Laboratory
 
 ![Day](https://img.shields.io/badge/Day-1-blue)
 ![Lab](https://img.shields.io/badge/Lab-TH_Lab-blueviolet)
