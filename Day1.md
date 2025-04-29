@@ -114,6 +114,13 @@ show power inline
 
 # 🧪 Task 2: VLAN Checking and Configuration
 
+![Level](https://img.shields.io/badge/Level-Intermediate-yellow)
+![Device](https://img.shields.io/badge/Device-Cisco%20Switch-blue)
+![Focus](https://img.shields.io/badge/Focus-VLAN%20Configuration-critical)
+![Type](https://img.shields.io/badge/Environment-Enterprise%20%26%20HomeLab-lightgrey)
+
+---
+
 ## 📌 Objective
 
 To understand the purpose of VLANs in enterprise and home network environments, and perform VLAN creation and verification using Cisco CLI commands.
@@ -132,6 +139,7 @@ This improves:
 
 ## 🏢 Enterprise VLAN Verification
 
+Run the following command to verify VLANs on enterprise Cisco switches:
 Use the following command to view VLANs on a traditional enterprise switch:
 
 ```cisco
