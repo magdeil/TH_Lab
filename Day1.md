@@ -10,3 +10,21 @@
 show power inline 
 ```
 
+### Power Supply Status
+
+| PowerSupply | SlotNum. | Maximum | Allocated | Status   |
+|-------------|----------|---------|-----------|----------|
+| INT-PS      | 0        | 88.000  | 28.800    | PS GOOD  |
+
+### Interface Power Allocation
+
+| Interface | Config | Device   | Powered | PowerAllocated |
+|-----------|--------|----------|---------|----------------|
+| Fa0/1/0   | auto   | Unknown  | Off     | 0.000 Watts    |
+| Fa0/1/1   | auto   | IEEE-2   | On      | 7.000 Watts    |
+| Fa0/1/2   | auto   | Unknown  | Off     | 0.000 Watts    |
+| Fa0/1/3   | auto   | IEEE-2   | On      | 6.400 Watts    |
+| Fa0/1/4   | auto   | Unknown  | Off     | 0.000 Watts    |
+| Fa0/1/5   | auto   | IEEE-4   | On      | 15.400 Watts   |
+| Fa0/1/6   | auto   | Unknown  | Off     | 0.000 Watts    |
+| Fa0/1/7   | auto   | Unknown  | Off     | 0.000 Watts    |
