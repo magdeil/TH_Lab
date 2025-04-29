@@ -19,4 +19,4 @@ Fa0/1/5     auto     IEEE-4   On        15.400 Watts
 Fa0/1/6     auto     Unknown  Off        0.000 Watts  
 Fa0/1/7     auto     Unknown  Off        0.000 Watts 
 ```
-![alt text](https://rivanit.com/ "Logo Title Text 1")
+![alt text]([https://rivanit.com/](https://rivanit.com/assets/logo-DaYZ0U1G.png) "Logo Title Text 1")
