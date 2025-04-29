@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://rivanit.com/assets/logo-DaYZ0U1G.png" alt="Logo" title="TH_Lab Logo"/> <h1> Rivan Cyber </h1>
+  <img src="https://rivanit.com/assets/logo-DaYZ0U1G.png" alt="Logo" title="TH_Lab Logo"/> <h1> Rivan Cyber Training Institute </h1>
 </div>
 
 # Introduction to Access Point WIRELESS
