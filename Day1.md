@@ -9,9 +9,9 @@
 ```cisco
 show power inline 
 ```
-<br>
-<b>  *SAMPLE OUTPUT:*  </b>
 
+<b>  *SAMPLE OUTPUT:*  </b>
+<hr>
 
 ### Power Supply Status
 | PowerSupply | SlotNum. | Maximum | Allocated | Status   |
