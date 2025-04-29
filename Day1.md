@@ -3,4 +3,4 @@
 ```cisco
 show power inline 
 ```
-![{D8599EE9-C3C7-4EE7-8F3E-113C7AF95318}](https://github.com/user-attachments/assets/9f6780a2-37aa-48ed-a7b1-cd18af163282)
+
