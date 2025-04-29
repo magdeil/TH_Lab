@@ -141,7 +141,9 @@ This improves:
 
 Run the following command to verify VLANs on enterprise Cisco switches:
 Use the following command to view VLANs on a traditional enterprise switch:
-
+```cisco
+show vlan brief
+```
 ```cisco
 config t
 vlan 1
