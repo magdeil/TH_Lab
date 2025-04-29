@@ -10,8 +10,8 @@
 show power inline 
 ```
 <br>
-<b>  *SAMPLE OUTPUT*  </b>
-<br>
+<b>  *SAMPLE OUTPUT:*  </b>
+
 
 ### Power Supply Status
 | PowerSupply | SlotNum. | Maximum | Allocated | Status   |
