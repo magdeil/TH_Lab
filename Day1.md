@@ -8,6 +8,7 @@
     </td>
   </tr>
 </table>
+
 ```cisco
 show power inline 
 ```
