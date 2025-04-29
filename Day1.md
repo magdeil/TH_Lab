@@ -9,6 +9,16 @@
 
 ---
 
+![{528B51F1-FE6C-4BB4-9EA0-2E85A57CCB55}](https://github.com/user-attachments/assets/d61f16f4-1741-43e1-ab04-41f4e3c7c278)
+
+| Switch Port | Device Type | Description       |
+|-------------|-------------|-------------------|
+| 0/1/1      | Telephony   | Cisco IP Phone    |
+| 0/1/3      | Camera      | Security Camera   |
+| 0/1/5      | Access Point| Wireless AP       |
+| 0/1/7      | PC          | Workstation       |
+
+
 ## 🛠️ Task 1: Physical Ports Check
 
 ![Task](https://img.shields.io/badge/Task-Physical%20Ports%20Check-orange)
