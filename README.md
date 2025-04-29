@@ -4,6 +4,7 @@
 ![Activity Type](https://img.shields.io/badge/Type-Laboratory-blue)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-lightgrey)
 ![Tools](https://img.shields.io/badge/Tools-Cisco%20Devices%2C%20PuTTY-important)
+![Institution](https://img.shields.io/badge/Institution-Rivan%20Cyber%20Training%20Institute-yellow)
 
 ---
 
@@ -21,7 +22,7 @@ The focus is to build familiarity with the physical aspects and connection stand
 - IP Surveillance Camera
 - UTP (Unshielded Twisted Pair) Ethernet Cables
 - Serial Console Cable
-- Computer with terminal emulation software (e.g., PuTTY, SecureCRT)
+- Computer with terminal emulation software (e.g., PuTTY, Tera Term)
 
 ## 3. Learning Objectives
 
