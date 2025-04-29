@@ -112,6 +112,27 @@ show power inline
 | Fa0/1/6   | auto   | Unknown  | Off     | 0.000 Watts    |
 | Fa0/1/7   | auto   | Unknown  | Off     | 0.000 Watts    |
 
+# 🧪 Task 2: VLAN Checking and Configuration
+
+## 📌 Objective
+
+To understand the purpose of VLANs in enterprise and home network environments, and perform VLAN creation and verification using Cisco CLI commands.
+
+---
+
+## 💡 Why Do Companies Need VLANs?
+
+> **Virtual LANs (VLANs)** allow organizations to segment a physical network into multiple logical networks.  
+This improves:
+- **Security** – Isolates sensitive data traffic (e.g., VoIP or video streams)
+- **Performance** – Reduces broadcast domains, improving network efficiency
+- **Manageability** – Simplifies network management through logical grouping
+
+---
+
+## 🏢 Enterprise VLAN Verification
+
+Use the following command to view VLANs on a traditional enterprise switch:
 
 ```cisco
 config t
