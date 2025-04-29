@@ -11,7 +11,7 @@ show power inline
 ```
 
 <b>  *SAMPLE OUTPUT:*  </b>
-<hr>
+
 
 ### Power Supply Status
 | PowerSupply | SlotNum. | Maximum | Allocated | Status   |
