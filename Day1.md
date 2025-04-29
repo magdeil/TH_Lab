@@ -2,11 +2,20 @@
   <img src="https://rivanit.com/assets/logo-DaYZ0U1G.png" alt="Logo" title="TH_Lab Logo"/> <h1> Rivan Cyber </h1>
 </div>
 
-<h1 style="font-size:32px; color:#2E8B57;">DAY 1 TH_Lab</h1>
+# 📘 DAY 1 — TH_Lab
 
-<h2 style="font-size:28px; color:#4B0082;">Task 1: Physical Ports Check</h2>
+![Day](https://img.shields.io/badge/Day-1-blue)
+![Lab](https://img.shields.io/badge/Lab-TH_Lab-blueviolet)
 
-<h3 style="font-size:24px; color:#D2691E;">Power over Ethernet (PoE) Status</h3>
+---
+
+## 🛠️ Task 1: Physical Ports Check
+
+![Task](https://img.shields.io/badge/Task-Physical%20Ports%20Check-orange)
+
+### 🔌 Power over Ethernet (PoE) Status
+
+![PoE Status](https://img.shields.io/badge/PoE-Status-brightgreen)
   
 ```cisco
 show power inline 
