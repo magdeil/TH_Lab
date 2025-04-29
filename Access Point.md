@@ -17,7 +17,7 @@
 | 1  | Kensington Lock Slot          | Physical security lock for theft prevention                                |
 | 2  | DC Power Connection Port      | Input for external power supply                                           |
 | 3  | Primary Ethernet Port         | Main network interface (RJ45)                                             |
-| 4  | Auxiliary Ethernet Port       | Secondary network port (see [Guidelines for Using the Auxiliary Ethernet Port](#)) |
+| 4  | Auxiliary Ethernet Port       | Secondary network port                                                    |
 | 5  | RS232 Console Port            | Serial port for device management                                         |
 | 6  | Mounting Bracket Pins         | Feet for desk/table-top mounting                                          |
 
