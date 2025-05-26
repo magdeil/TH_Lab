@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://rivanit.com/assets/logo-DaYZ0U1G.png" alt="Logo" title="TH_Lab Logo"/> <h1> Rivan Cyber Training Institute </h1>
+  <img src="https://github.com/user-attachments/assets/e4d90e60-ee23-4e28-b9c1-ab35e68fed13" alt="Rivan Cyber Training Institute Logo" width="200">
+  <h1>RIVAN CYBER TRAINING INSTITUTE</h1>
 </div>
 
 # Take-Home Laboratory Activity: Introduction to Cisco Networking Devices
